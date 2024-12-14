@@ -1,8 +1,15 @@
-# React + Vite
+# Classy Smart Watch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React component for a Smart Watch Cart. It displays the watch name, image, original price, discounted price, and allows for dynamic updates such as adding items or adjusting quantities..
 
-Currently, two official plugins are available:
+Uses Technologies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Tailwind CSS
+- React icons
+- local Storage
+- Deploy for netlify
+
+## Live
+
+#### https://wondrous-starship-8d2aed.netlify.app/

@@ -4,6 +4,10 @@ import { FaRegStarHalfStroke } from "react-icons/fa6";
 import { FaRegStar } from "react-icons/fa6";
 import { CiHeart } from "react-icons/ci";
 import './App.css'; 
+import img1 from './assets/img1.jpeg';
+import img2 from './assets/img2.png';
+import img3 from './assets/img3.jpeg';
+import img4 from './assets/img4.jpeg';
 
 
 function App() {
@@ -15,10 +19,10 @@ function App() {
     originalPrice: 99.00,
     basePrice: 79.00,
     bandColors: [
-      { color: 'Purple', image: 'https://i.ibb.co.com/BfLH3qg/img1.jpg' },
-      { color: 'Cyan', image: 'https://i.ibb.co.com/WysDK9H/img2.png' },
-      { color: 'Blue', image: 'https://i.ibb.co.com/6DhpK4R/img3.jpg' },
-      { color: 'Black', image: 'https://i.ibb.co.com/N99sDX7/img4.jpg' },
+      { color: 'Purple', image: img1 },
+      { color: 'Cyan', image: img2 },
+      { color: 'Blue', image: img3 },
+      { color: 'Black', image: img4 },
     ],
     sizes: [
       { size: 'S', price: 69 },
